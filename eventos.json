@@ -1,0 +1,178 @@
+{
+  "eventos": [
+    {
+      "event_id": "3f04499a-b5c3-41a2-aa2b-dc03fb4014d2",
+      "titulo": "LAST GT (HOJE)",
+      "levar": "Ponto de encontro Hub da GT (entrada Ankrahmun)",
+      "horario": "21h00",
+      "limites": {
+        "TANKER": 3,
+        "HEALER": 3,
+        "DPS": 24,
+        "RESERVA": 5
+      },
+      "data_criacao": "2025-06-21T14:43:54.279602",
+      "autor_id": 447897051997536267,
+      "autor_nome": "[EK 900+] Joonny",
+      "canal_id": 1384204255145099536,
+      "ativa": true,
+      "tipo": "enquete",
+      "message_id": 1385993640517828648,
+      "timestamp": "2025-06-21T14:43:54.587183",
+      "participantes": {
+        "TANKER": [
+          {
+            "user_id": 308024554461069312,
+            "nome": "[EK 700+] Mael do Sunshine",
+            "nome_servidor": "[EK 700+] Mael do Sunshine",
+            "tem_nickname": true,
+            "nickname_atual": "[EK 700+] Mael do Sunshine",
+            "nome_global": "Mael"
+          },
+          {
+            "user_id": 207226649723404288,
+            "nome": "[EK 800+] Noctiis",
+            "nome_servidor": "[EK 800+] Noctiis",
+            "tem_nickname": true,
+            "nickname_atual": "[EK 800+] Noctiis",
+            "nome_global": "Dante"
+          },
+          {
+            "user_id": 587091859914883096,
+            "nome": "[EK 800+] Extraordinario",
+            "nome_servidor": "[EK 800+] Extraordinario",
+            "tem_nickname": true,
+            "nickname_atual": "[EK 800+] Extraordinario",
+            "nome_global": "willian"
+          }
+        ],
+        "HEALER": [
+          {
+            "user_id": 1328783293889384581,
+            "nome": "[ED 800+] Bellattrix",
+            "nome_servidor": "[ED 800+] Bellattrix",
+            "tem_nickname": true,
+            "nickname_atual": "[ED 800+] Bellattrix",
+            "nome_global": "[ED 800+] • Bellattrix"
+          },
+          {
+            "user_id": 327297164512329750,
+            "nome": "[ED 850+] Sabrina Carpenter",
+            "nome_servidor": "[ED 850+] Sabrina Carpenter",
+            "tem_nickname": true,
+            "nickname_atual": "[ED 850+] Sabrina Carpenter",
+            "nome_global": "Alencaius"
+          },
+          {
+            "user_id": 552278631703904278,
+            "nome": "[ED 700+] Pedro Junior",
+            "nome_servidor": "[ED 700+] Pedro Junior",
+            "tem_nickname": true,
+            "nickname_atual": "[ED 700+] Pedro Junior",
+            "nome_global": "Pedro Junior"
+          }
+        ],
+        "DPS": [
+          {
+            "user_id": 447897051997536267,
+            "nome": "[EK 900+] Joonny",
+            "nome_servidor": "[EK 900+] Joonny",
+            "tem_nickname": true,
+            "nickname_atual": "[EK 900+] Joonny",
+            "nome_global": "Jonny"
+          },
+          {
+            "user_id": 310200649864183820,
+            "nome": "[MS 900+] Dahav",
+            "nome_servidor": "[MS 900+] Dahav",
+            "tem_nickname": true,
+            "nickname_atual": "[MS 900+] Dahav",
+            "nome_global": "Franklin"
+          },
+          {
+            "user_id": 419583241163374593,
+            "nome": "[RP 800+] Muad Diib",
+            "nome_servidor": "[RP 800+] Muad Diib",
+            "tem_nickname": true,
+            "nickname_atual": "[RP 800+] Muad Diib",
+            "nome_global": "DiPalma"
+          },
+          {
+            "user_id": 314099699768360970,
+            "nome": "[RP 850+] Scorpion Eliterj",
+            "nome_servidor": "[RP 850+] Scorpion Eliterj",
+            "tem_nickname": true,
+            "nickname_atual": "[RP 850+] Scorpion Eliterj",
+            "nome_global": "KotoKoRJ - Pheige"
+          },
+          {
+            "user_id": 197873248334118912,
+            "nome": "[EM 700+] Baldplayer",
+            "nome_servidor": "[EM 700+] Baldplayer",
+            "tem_nickname": true,
+            "nickname_atual": "[EM 700+] Baldplayer",
+            "nome_global": "matatroxa"
+          },
+          {
+            "user_id": 1358158237316153587,
+            "nome": "[MS 850+] King Nozyk",
+            "nome_servidor": "[MS 850+] King Nozyk",
+            "tem_nickname": true,
+            "nickname_atual": "[MS 850+] King Nozyk",
+            "nome_global": "King"
+          },
+          {
+            "user_id": 349239450821197844,
+            "nome": "[RP 900+] Lima Palla",
+            "nome_servidor": "[RP 900+] Lima Palla",
+            "tem_nickname": true,
+            "nickname_atual": "[RP 900+] Lima Palla",
+            "nome_global": "Lima"
+          },
+          {
+            "user_id": 656261438251335690,
+            "nome": "[RP 800+] Vitaa",
+            "nome_servidor": "[RP 800+] Vitaa",
+            "tem_nickname": true,
+            "nickname_atual": "[RP 800+] Vitaa",
+            "nome_global": "Vitaa"
+          },
+          {
+            "user_id": 368850822542655489,
+            "nome": "[RP 900+] Gwynbleidd",
+            "nome_servidor": "[RP 900+] Gwynbleidd",
+            "tem_nickname": true,
+            "nickname_atual": "[RP 900+] Gwynbleidd",
+            "nome_global": "Leozbroca"
+          },
+          {
+            "user_id": 587091738875789322,
+            "nome": "[MS 850+] Garga Honey",
+            "nome_servidor": "[MS 850+] Garga Honey",
+            "tem_nickname": true,
+            "nickname_atual": "[MS 850+] Garga Honey",
+            "nome_global": "will black"
+          },
+          {
+            "user_id": 699970691159687168,
+            "nome": "[RP 800+] Sollariano",
+            "nome_servidor": "[RP 800+] Sollariano",
+            "tem_nickname": true,
+            "nickname_atual": "[RP 800+] Sollariano",
+            "nome_global": "Cleverton"
+          },
+          {
+            "user_id": 147862000318283776,
+            "nome": "[EK 1100+] Ariek",
+            "nome_servidor": "[EK 1100+] Ariek",
+            "tem_nickname": true,
+            "nickname_atual": "[EK 1100+] Ariek",
+            "nome_global": "Jota"
+          }
+        ],
+        "RESERVA": []
+      },
+      "ultima_atualizacao": "2025-06-22T00:00:10.300208"
+    }
+  ]
+}
